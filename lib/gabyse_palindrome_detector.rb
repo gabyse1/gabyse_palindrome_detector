@@ -2,6 +2,7 @@
 
 require_relative "gabyse_palindrome_detector/version"
 
+# Module to modularize the palindrome detector
 module GabysePalindromeDetector
   def palindrome?
     if processed_content.empty?
