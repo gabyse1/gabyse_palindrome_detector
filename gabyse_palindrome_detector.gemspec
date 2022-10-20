@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Palindrome detector"
   spec.description = "Ruby palindrome detector for strings and integers."
-  spec.homepage = "https://github.com/gabyse1/gabyse_palindrome"
+  spec.homepage = "https://github.com/gabyse1/gabyse_palindrome_detector"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org/"
